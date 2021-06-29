@@ -1,0 +1,1 @@
+This is CodeCric's first git project!
