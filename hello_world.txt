@@ -1,1 +1,1 @@
-Test Shot!
+Test Shot, introducing new global commit template
